@@ -4,8 +4,8 @@ This project explores Airbnb listings in New York using data from InsideAirbnb. 
 
 Key Questions Answered
 - What are the most common room types?
-- Which neighborhoods have the most listings?
-- How does price vary by neighborhood?
+- Which neighbourhoods have the most listings?
+- How does price vary by neighbourhood?
 - How are reviews distributed?
 - Do superhosts charge more?
 
@@ -14,7 +14,3 @@ Tools Used
 - Jupyter Notebook
 - Dataset: [InsideAirbnb](http://insideairbnb.com/get-the-data.html)
 
-Files
-- `notebook/airbnb_eda.ipynb`: main analysis notebook
-- `data/airbnb_nyc.csv`: raw data
-- `images/`: cleaned charts
