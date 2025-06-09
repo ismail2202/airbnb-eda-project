@@ -1,6 +1,6 @@
 Airbnb EDA Project
 
-This project explores Airbnb listings in New York using data from InsideAirbnb. The goal was to understand listing distribution, pricing, reviews, and host behavior using Python, pandas, and seaborn.
+This project explores Airbnb listings in New York using data from InsideAirbnb. The goal was to understand listing distribution, pricing, reviews, and host behaviour using Python, pandas, and seaborn.
 
 Key Questions Answered
 - What are the most common room types?
